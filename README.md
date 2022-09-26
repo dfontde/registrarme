@@ -1,6 +1,6 @@
 Estas son las instrucciones si quieren jugar un poco con el proyecto
 
-1. ejecutar: git clone http://gitlab.grupoesfera.com.ar/laboratorio/LAB-00084-BDD-Registrarme.git
+1. ejecutar: git clone https://github.com/dfontde/registrarme.git
 
 2. copiar el archivo ENV.ejemplo.sh a ENV.sh
 
